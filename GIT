@@ -1,0 +1,15 @@
+#include <iostream>
+#include <locale.h>
+
+using namespace std;
+
+int main ()
+{
+	
+setlocale(LC_ALL, "Portuguese");
+
+    printf("Não sei necessariamente o que é pra fazer, pois faço Prática Interdisciplinar e não entendi a proposta, \nmas resolvi colocar ao menos o link do Github, \nonde já possuo outras coisas de matérias que estou fazendo");
+    
+    return 0;
+    
+}
